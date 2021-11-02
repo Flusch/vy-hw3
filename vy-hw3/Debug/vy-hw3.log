@@ -1,0 +1,10 @@
+﻿  vy-hw3.cpp
+D:\Projects\GitHub\vy-hw3\vy-hw3\vy-hw3.cpp(17,21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Projects\GitHub\vy-hw3\vy-hw3\vy-hw3.cpp(18,56): warning C4305: 'argument': truncation from '__int64' to '_Ty'
+          with
+          [
+              _Ty=uint32_t
+          ]
+D:\Projects\GitHub\vy-hw3\vy-hw3\vy-hw3.cpp(18,45): warning C4309: 'argument': truncation of constant value
+D:\Projects\GitHub\vy-hw3\vy-hw3\vy-hw3.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  vy-hw3.vcxproj -> D:\Projects\GitHub\vy-hw3\Debug\vy-hw3.exe
